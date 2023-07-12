@@ -12,14 +12,14 @@
     "react-dom": "^16.13.0",
     "react-redux": "7.1.0",
     "react-router-dom": "5.0.1",
-    "react-scripts": "3.4.0",
+    "react-scripts": "5.0.1",
     "redux": "4.0.4",
     "redux-logger": "3.0.6",
     "redux-saga": "1.0.5",
     "styled-components": "4.3.2"
   },
   "devDependencies": {
-    "node-sass": "^4.14.1",
+    "node-sass": "^9.0.0",
     "react-app": "1.1.2"
   },
   "scripts": {
